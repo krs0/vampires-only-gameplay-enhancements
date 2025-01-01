@@ -17,8 +17,8 @@
 		"andruids-expansion.plaguetent",
 		"h3evo.plaguetent"
 	],
+	"skills" :
 	[
 		"config/replaceNecromancyStartingSkill.json"
 	]
 }
-
